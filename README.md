@@ -49,3 +49,7 @@ adb shell input swipe x y x y time(ms)
 第一幅为直方图均衡化之后的伪彩色图像，第二幅为二值分割后的结果，第三幅图为截取的原图。
 
 ![Image4](./images/002_out.png)
+
+**实际操作界面：**
+
+![Image5](./images/2018-01-19 015331.png)
