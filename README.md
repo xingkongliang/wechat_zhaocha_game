@@ -4,6 +4,7 @@ python 微信小程序 《大家来找茬腾讯版》 辅助
 找茬游戏分为两种模式：一种是闯关模式，一种是对战模式。通过辅助脚本可以清晰显示两幅图片的不同之处。
 
 <center>![Image1](./images/image1.gif)</center>
+
 ![](./images/image1.gif)
 
 ## 致敬wechat_jump_game
