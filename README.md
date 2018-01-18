@@ -3,7 +3,7 @@ python 微信小程序 《大家来找茬腾讯版》 辅助
 
 找茬游戏分为两种模式：一种是闯关模式，一种是对战模式。通过辅助脚本可以清晰显示两幅图片的不同之处。
 
-<center>![Image1](images/image1.gif)</center>
+<center>![Image1](https://github.com/xingkongliang/wechat_zhaocha_game/blob/master/images/image1.gif?raw=true)</center>
 
 ## 致敬wechat_jump_game
 受到[wechat_jump_game](https://github.com/wangshub/wechat_jump_game)启发，简单制作了一个找茬辅助工具，在这里感谢此项目，部分代码来自该项目。
@@ -37,12 +37,12 @@ adb shell input swipe x y x y time(ms)
 4. 注意：单击鼠标左键则选定标定位置，单击鼠标右键刷新图片
 5. 程序运行会显示如下图像，然后左键单击颜色高亮的位置，即可完成标注。该图片完成之后，用单击鼠标右键刷新图像
 
-<center>![Image2](images/001_out.png)</center>
+<center>![Image2](https://github.com/xingkongliang/wechat_zhaocha_game/blob/master/images/001_out.png?raw=true)</center>
 
 ## 其他示例：
 输入图像：
-<center>![Image2](images/002.png)</center>
+<center>![Image2](https://github.com/xingkongliang/wechat_zhaocha_game/blob/master/images/002.png?raw=true)</center>
 
 输出图像：
 第一幅为直方图均衡化之后的伪彩色图像，第二幅为二值分割后的结果，第三幅图为截取的原图。
-<center>![Image2](images/002_out.png)</center>
+<center>![Image2](https://github.com/xingkongliang/wechat_zhaocha_game/blob/master/images/002_out.png?raw=true)</center>
