@@ -52,4 +52,4 @@ adb shell input swipe x y x y time(ms)
 
 **实际操作界面：**
 
-![Image5](./images/2018-01-19 015331.png)
+![Image5](./images/005.png)
