@@ -9,7 +9,7 @@ python 微信小程序 《大家来找茬腾讯版》 辅助
 受到[wechat_jump_game](https://github.com/wangshub/wechat_jump_game)启发，简单制作了一个找茬辅助工具，在这里感谢此项目，部分代码来自该项目。
 
 ## 原理说明
-1. 进入《大家来zhao》界面
+1. 进入《大家来找茬》界面
 2. 使用ADB工具获取当前手机截图，并用ADB将截图pull上来
 ```
 adb shell screencap -p /sdcard/autojump.png
@@ -32,7 +32,7 @@ adb shell input swipe x y x y time(ms)
 ## 使用教程
 
 1. 下载[ADB](http://adbshell.com/downloads)，要保证可以调用adb命令
-2. 模式选择：如果是挑战模式，则设置`Challenge_Mode = False`；如果是闯关模式，则设置`Challenge_Mode = True`。
+2. 模式选择：如果是挑战模式，则设置`Challenge_Mode = True`；如果是闯关模式，则设置`Challenge_Mode = False`。
 3. 运行ZhaoCha_v1.0.py
 4. 注意：单击鼠标左键则选定标定位置，单击鼠标右键刷新图片
 5. 程序运行会显示如下图像，然后左键单击颜色高亮的位置，即可完成标注。该图片完成之后，用单击鼠标右键刷新图像
